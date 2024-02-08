@@ -9569,11 +9569,7 @@ h6,
 }
 
 .page-header {
-<<<<<<< HEAD
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/Fondo.png), no-repeat center center;
-=======
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hand-drawn-fast-food-decorative-background-vector.jpg), no-repeat center center;
->>>>>>> 08dbdcd6f0e692e4860716006e59534085d012e0
   background-size: cover;
 }
 
